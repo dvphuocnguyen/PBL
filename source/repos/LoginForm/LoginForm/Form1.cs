@@ -41,7 +41,7 @@ namespace LoginForm
                 txtUserName.Focus();
             }
         }
-
+        string a;
         private void label2_Click(object sender, EventArgs e)
         {
             Form2 f = new Form2();
