@@ -20,6 +20,6 @@ namespace LoginForm.BBLQL
             private set { }
 
         }
-        public List<>
+        /*public List<>*/
     }
 }

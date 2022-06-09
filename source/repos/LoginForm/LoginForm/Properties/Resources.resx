@@ -124,6 +124,9 @@
   <data name="kisspng-password-manager-user-computer-icons-password-safe-safe-5ab63a34840cd1.5244173315218918925409" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kisspng-password-manager-user-computer-icons-password-safe-safe-5ab63a34840cd1.5244173315218918925409.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="blue-alpha-d-greek-letter-illustration-isolated-white-background-1902152093" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue-alpha-d-greek-letter-illustration-isolated-white-background-1902152093.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="blue-alpha-d-greek-letter-illustration-isolated-white-background-1902152091" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\blue-alpha-d-greek-letter-illustration-isolated-white-background-1902152091.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -145,10 +148,13 @@
   <data name="transparent-password-manager-password-keeper-password-safe-com-xodus5ead2aaca02f31.5278456515884069566561" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\transparent-password-manager-password-keeper-password-safe-com-xodus5ead2aaca02f31.5278456515884069566561.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="logout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="imgbin-computer-icons-avatar-user-login-avatar-man-wearing-blue-shirt-illustration-mJrXLG07YnZUc2bH5pGfFKUhX" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\imgbin-computer-icons-avatar-user-login-avatar-man-wearing-blue-shirt-illustration-mJrXLG07YnZUc2bH5pGfFKUhX.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="blue-alpha-d-greek-letter-illustration-isolated-white-background-1902152093" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\blue-alpha-d-greek-letter-illustration-isolated-white-background-1902152093.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="out" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\out.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

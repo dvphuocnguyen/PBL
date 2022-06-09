@@ -63,6 +63,16 @@ namespace LoginForm.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _out {
+            get {
+                object obj = ResourceManager.GetObject("out", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap blue_alpha_d_greek_letter_illustration_isolated_white_background_190215209 {
             get {
                 object obj = ResourceManager.GetObject("blue-alpha-d-greek-letter-illustration-isolated-white-background-190215209", resourceCulture);
@@ -138,6 +148,16 @@ namespace LoginForm.Properties {
             get {
                 object obj = ResourceManager.GetObject("kisspng-password-manager-user-computer-icons-password-safe-safe-5ab63a34840cd1.52" +
                         "44173315218918925409", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logout {
+            get {
+                object obj = ResourceManager.GetObject("logout", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

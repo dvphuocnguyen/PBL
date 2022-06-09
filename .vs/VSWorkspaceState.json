@@ -3,10 +3,14 @@
     "",
     "\\source",
     "\\source\\repos",
-    "\\source\\repos\\addQz",
+    "\\source\\repos\\Login1",
+    "\\source\\repos\\loginAppp",
+    "\\source\\repos\\loginAppp\\loginAppp",
     "\\source\\repos\\LoginForm",
-    "\\source\\repos\\LoginForm\\LoginForm"
+    "\\source\\repos\\LoginForm\\LoginForm",
+    "\\source\\repos\\LoginForm\\LoginForm\\VIEW - Copy",
+    "\\source\\repos\\LoginForm\\LoginForm\\VIEW - Copy (2)"
   ],
-  "SelectedNode": "\\source\\repos\\LoginForm\\LoginForm\\inforuser.cs",
+  "SelectedNode": "\\source\\repos\\LoginForm\\LoginForm\\VIEW - Copy\\Members-can.cs",
   "PreviewInSolutionExplorer": false
 }
